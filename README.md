@@ -4,40 +4,15 @@
 
 一个可以将QQ群与服务端连接的插件
 
-# 如有bug请在[Iss](https://github.com/YF-OFFICE/SocketServer-SCPSL/issues)里提出
+# 插件原作者YF-OFFICE
+
+# 如有bug请提出
 
 
-Warn:本权限组允许群主和管理员使用Round指令  插件和程序正常运行 只是需要一个qq客户端的正向Websocket6700端口来链接 替换Cq客户端的方法在下方 当然你也可以自行寻找 只要是能有正向WebSocket6700端口就ok
+Warn:插件和程序正常运行 只是需要一个qq客户端的正向Websocket6700端口来链接 替换Cq客户端的方法在下方 当然你也可以自行寻找 只要是能有正向WebSocket6700端口就ok
 
 
-目前所有拥有的指令:cx,info，round
-
-加round指令
-
-
-round 端口 list查询玩家列表
-
-
-round 端口 rest 重启回合
-
-
-round 端口 start 启动回合
-
-
-round 端口 allrest 重启服务器
-
-
-round 端口 kick+id 踢出对应id玩家
-
-
-round 端口 bc+text 向服务器发送广播
-
-例如:1服是10087tcp端口 那么就是 round 10087 bc test
-
-
-Warn:目前round指令群主和管理员使用 如有其他需求请在issues里提出
-
-
+目前所有拥有的指令:cx,info
 
 
 说明：
