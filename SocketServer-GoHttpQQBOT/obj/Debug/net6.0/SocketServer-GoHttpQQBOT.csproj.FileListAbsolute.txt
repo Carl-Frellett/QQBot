@@ -1,0 +1,17 @@
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\SocketServer-GoHttpQQBOT.exe
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\SocketServer-GoHttpQQBOT.deps.json
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\SocketServer-GoHttpQQBOT.runtimeconfig.json
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\SocketServer-GoHttpQQBOT.dll
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\SocketServer-GoHttpQQBOT.pdb
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\bin\Debug\net6.0\EleCho.GoCqHttpSdk.dll
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.csproj.AssemblyReference.cache
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.AssemblyInfoInputs.cache
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.AssemblyInfo.cs
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.csproj.CoreCompileInputs.cache
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketSe.601D65FC.Up2Date
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.dll
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\refint\SocketServer-GoHttpQQBOT.dll
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.pdb
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\SocketServer-GoHttpQQBOT.genruntimeconfig.cache
+C:\Users\20332\Downloads\SocketServer-SCPSL-main\SocketServer-GoHttpQQBOT\obj\Debug\net6.0\ref\SocketServer-GoHttpQQBOT.dll

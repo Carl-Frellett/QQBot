@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SocketServer-GoHttpQQBOT/1.0.0": {
+        "dependencies": {
+          "EleCho.GoCqHttpSdk": "1.2.2"
+        },
+        "runtime": {
+          "SocketServer-GoHttpQQBOT.dll": {}
+        }
+      },
+      "EleCho.GoCqHttpSdk/1.2.2": {
+        "runtime": {
+          "lib/net6.0/EleCho.GoCqHttpSdk.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketServer-GoHttpQQBOT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EleCho.GoCqHttpSdk/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K2xTWP1OLiIbV24unNXWzNljT35XDda6ECVxSgQg+UzLEthG/IlMVDK9L12u1bPmhgJdk/2pZL+2+sI961tkIA==",
+      "path": "elecho.gocqhttpsdk/1.2.2",
+      "hashPath": "elecho.gocqhttpsdk.1.2.2.nupkg.sha512"
+    }
+  }
+}

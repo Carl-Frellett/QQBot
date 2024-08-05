@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "EleCho.GoCqHttpSdk/1.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/EleCho.GoCqHttpSdk.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/EleCho.GoCqHttpSdk.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EleCho.GoCqHttpSdk/1.2.2": {
+      "sha512": "K2xTWP1OLiIbV24unNXWzNljT35XDda6ECVxSgQg+UzLEthG/IlMVDK9L12u1bPmhgJdk/2pZL+2+sI961tkIA==",
+      "type": "package",
+      "path": "elecho.gocqhttpsdk/1.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "elecho.gocqhttpsdk.1.2.2.nupkg.sha512",
+        "elecho.gocqhttpsdk.nuspec",
+        "lib/net6.0/EleCho.GoCqHttpSdk.dll",
+        "lib/net6.0/EleCho.GoCqHttpSdk.xml",
+        "lib/net7.0/EleCho.GoCqHttpSdk.dll",
+        "lib/net7.0/EleCho.GoCqHttpSdk.xml",
+        "lib/netstandard2.0/EleCho.GoCqHttpSdk.dll",
+        "lib/netstandard2.0/EleCho.GoCqHttpSdk.xml",
+        "logo-rect.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "EleCho.GoCqHttpSdk >= 1.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\20332\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\20332\\Downloads\\SocketServer-SCPSL-main\\SocketServer-GoHttpQQBOT\\SocketServer-GoHttpQQBOT.csproj",
+      "projectName": "SocketServer-GoHttpQQBOT",
+      "projectPath": "C:\\Users\\20332\\Downloads\\SocketServer-SCPSL-main\\SocketServer-GoHttpQQBOT\\SocketServer-GoHttpQQBOT.csproj",
+      "packagesPath": "C:\\Users\\20332\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\20332\\Downloads\\SocketServer-SCPSL-main\\SocketServer-GoHttpQQBOT\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\20332\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "EleCho.GoCqHttpSdk": {
+            "target": "Package",
+            "version": "[1.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.6.24328.19\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

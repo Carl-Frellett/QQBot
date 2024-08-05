@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35103.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocketServer-GoHttpQQBOT", "SocketServer-GoHttpQQBOT.csproj", "{6DF90795-C5D0-4434-9A92-92247F9F97AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF90795-C5D0-4434-9A92-92247F9F97AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF90795-C5D0-4434-9A92-92247F9F97AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF90795-C5D0-4434-9A92-92247F9F97AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF90795-C5D0-4434-9A92-92247F9F97AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572BA283-9F09-4E90-ADD1-F9805786552D}
+	EndGlobalSection
+EndGlobal
